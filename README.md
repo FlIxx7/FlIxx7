@@ -11,7 +11,7 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gláucio-félix-043701b6)](https://www.linkedin.com/in/pedro-henrique-fullstack)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gláucio-félix-043701b6)](https://www.linkedin.com/in/gláucio-félix-043701b6/)
 
 <h3 align="left">Liguagens e Ferramentas:</h3>
 <p align="left">  
@@ -42,8 +42,3 @@
     <!-- PHP -->    
     <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 </p>
-
-
-
-
-
