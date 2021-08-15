@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Gláucio </h1>
 <h3 align="center">Um desenvolvedor front-end em evolução</h3>
 
-- 🌱 Atualmente estou aprendendo **HTML5, CSS, Javascript, PHP e GIT**
+- 🌱 Atualmente estou aprendendo **HTML5, CSS, JavaScript, PHP e GIT**
 - 👯 Estou procurando colaborar em **Qualquer projeto de código aberto**
 - 🤝 Estou procurando ajuda com **meu desenvolvimento profissional**
 - 📫 Como me encontrar **glaucio.fn@gmail.com**
