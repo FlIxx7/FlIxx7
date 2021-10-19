@@ -9,7 +9,7 @@
 ### Conecte-se comigo:
 
 ### [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gláucio-félix-043701b6)](https://www.linkedin.com/in/gláucio-félix-043701b6/)[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/glaucio.fn@gmail.com)](mailto:glaucio.fn@gmail.com)[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/FlIxx7)](https://github.com/FlIxx7)
-<h3 align="left">Liguagens e Ferramentas:</h3>
+<h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
     <!-- DEV -->
     <!-- <a href="https://dev.to" target="_blank"><img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="dev" width="40" height="40"/></a> -->
@@ -38,7 +38,7 @@
     <!-- MariaDB -->
     <!-- <a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a> -->
     <!-- PostgreSQL -->
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/></a>
+    <!-- <a href="https://www.postgresql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/></a> -->
     <!-- MongoDB -->
     <!-- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> -->
     <!-- MySQL -->    
@@ -48,3 +48,4 @@
     <!-- PHP -->    
     <!-- <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> -->
 </p>
+
