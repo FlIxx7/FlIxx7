@@ -1,7 +1,8 @@
 <h1 align="center">Olá 👋, eu sou Gláucio</h1>
 <h3 align="center">Um desenvolvedor em evolução! 🤘</h3>
 
-- 🌱 Atualmente estou aprendendo **HTML5, CSS, JavaScript, Python e GIT**,  e conhecendo o mundo da programação em geral, seja Front-End, Back-End. (Talvez um futuro Full-Strack?) 
+- 🌱 Atualmente estou aprendendo **JavaScript, ES6 em diante, Python e GIT**,  e conhecendo o mundo da programação em geral, seja Front-End, Back-End. (Talvez um futuro Full-Strack?) 
+- :muscle: Meus conhecimentos sólidos, atualmente são voltados mais para Front-End  **HTML5, CSS3, BootStrap, Figma**, e de versionamento **GIT**.
 - 🧑🏽 Eu sou estudante de ADS com capacidade de aprendizado rápido e eficiente! Sou esforçado e um dia me tornarei um grande desenvolvedor!
 - 👯 Estou procurando colaborar em **Qualquer projeto de código aberto** e também espero de alguma forma ajudar as pessoas, que eu possa facilitar a vida delas e tornar o seu dia a dia mais feliz com a praticidade e simplicidade da tecnologia!
 - 🤝 Estou procurando ajuda com **meu desenvolvimento profissional**. 
@@ -24,13 +25,13 @@
     <!-- GIT -->
     <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
     <!-- MySQL -->    
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/></a>
+    <!-- <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/></a> -->
     <!-- VS Code -->
 	<a href="https://code.visualstudio.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VScode" width="40" height="40"></a>
     <!-- Python -->
     <!-- <a href="https://www.python.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"></a> -->
    <!-- Figma -->
-    <!-- <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> -->
+    <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
     <!-- WordPress -->
     <!-- <a href="https://wordpress.com/pt-br/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/></a> -->
     <!-- Windows 10 -->
